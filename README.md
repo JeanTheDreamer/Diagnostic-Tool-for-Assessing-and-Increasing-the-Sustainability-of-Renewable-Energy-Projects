@@ -1,4 +1,4 @@
-# Excel SDG Assessment Tool
+# Diagnostic Tool for Assessing and Increasing the Sustainability of Renewable Energy Projects
 A user-friendly Excel-based tool designed to assess and visualize alignment with Sustainable Development Goals (SDGs), tailored for researchers, policymakers, and organizations to measure and report project impacts.
 
 ## Table of Contents
