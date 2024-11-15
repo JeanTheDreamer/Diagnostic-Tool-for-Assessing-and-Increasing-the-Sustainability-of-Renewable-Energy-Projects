@@ -48,5 +48,5 @@ We welcome contributions from the community! If you'd like to contribute to the 
 For any questions, suggestions, or issues, please contact us through the GitHub issue tracker associated with the repository.
 
 ## Reading List
-Is renewable energy sustainable? Potential relationships between renewable energy production and the Sustainable Development Goals: https://www.nature.com/articles/s44168-024-00120-6
-Diagnostic Approach and Tool for Assessing and Increasing the Sustainability of Renewable Energy Projects: https://www.preprints.org/manuscript/202411.1017/v1
+- Is renewable energy sustainable? Potential relationships between renewable energy production and the Sustainable Development Goals: https://www.nature.com/articles/s44168-024-00120-6
+- Diagnostic Approach and Tool for Assessing and Increasing the Sustainability of Renewable Energy Projects: https://www.preprints.org/manuscript/202411.1017/v1
