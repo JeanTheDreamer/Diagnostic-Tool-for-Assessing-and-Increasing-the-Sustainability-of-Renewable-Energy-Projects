@@ -11,7 +11,7 @@ A user-friendly Excel-based tool designed to assess and visualize alignment with
 7. [Contact](#contact)
 
 ## Introduction
-The Excel SDG Assessment Tool simplifies the complex process of evaluating projects against the United Nations Sustainable Development Goals. Developed to assist in the structured assessment and visualization of alignment with SDGs, this tool helps in the decision-making process by providing clear, color-coded insights into how well projects align with each SDG.
+The Excel SDG Assessment Tool simplifies the complex process of evaluating projects against the United Nations Sustainable Development Goals. Developed to assist in the structured assessment and visualization of alignment with SDGs, this tool helps in the decision-making process by providing clear, colour-coded insights into how well projects align with each SDG.
 
 ## Features
 - **Color-coded Visualization**: Utilizes a unique color-coding system to highlight SDG alignment directly within Excel.
@@ -46,3 +46,7 @@ We welcome contributions from the community! If you'd like to contribute to the 
 
 ## Contact
 For any questions, suggestions, or issues, please contact us through the GitHub issue tracker associated with the repository.
+
+## Reading List
+Is renewable energy sustainable? Potential relationships between renewable energy production and the Sustainable Development Goals: https://www.nature.com/articles/s44168-024-00120-6
+Diagnostic Approach and Tool for Assessing and Increasing the Sustainability of Renewable Energy Projects: https://www.preprints.org/manuscript/202411.1017/v1
