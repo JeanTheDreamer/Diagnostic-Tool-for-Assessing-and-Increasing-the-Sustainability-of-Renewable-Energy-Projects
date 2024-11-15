@@ -22,8 +22,8 @@ The Excel SDG Assessment Tool simplifies the complex process of evaluating proje
 ## Installation
 To get started with the Excel SDG Assessment Tool, follow these steps:
 1. Download the tool from the GitHub repository:
-Open the downloaded Excel SDG Assessment Tool.xlsx in Microsoft Excel.
-Ensure macros are enabled to utilize the tool's capabilities fully.
+2. Open the downloaded Excel SDG Assessment Tool.xlsx in Microsoft Excel.
+3. Ensure macros are enabled to utilize the tool's capabilities fully.
 
 ## Usage 
 1. Start by navigating to the "Questionnaire" sheet in the Excel workbook.
