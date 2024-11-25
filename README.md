@@ -19,6 +19,18 @@ The Excel SDG Assessment Tool simplifies the complex process of evaluating proje
 - **Automated Macros**: This package includes built-in macros for automated data processing and reporting, reducing manual workload and potential for error.
 - **Interactive Questionnaire**: Features an interactive questionnaire format that captures user inputs to assess SDG alignment.
 
+## Function Breakdown in Main Worksheet
+| Function                              | Description                                                                                                          | Interface               |
+|:--------------------------------------|:---------------------------------------------------------------------------------------------------------------------|:-----------------------:|
+| **Select Renewable Energy Type**      | Displays a dedicated Excel sheet for the chosen energy type and resets the questionnaire.                             | ![Logo](logo.png)       |
+| **Select Questionnaires**             | Shows the question list and resets previous responses as needed.                                                     | ![Logo](logo.png)       |
+| **Submit the User's Answer**          | Collects and stores the user's responses in the MasterList. Providing an option to rename the MasterList.           | ![Logo](logo.png)       |
+| **Generate the Overview Result**      | Aggregates responses into the Stand-alone Complex (SAC) sheet, highlighting the project's impact on SDGs.           | ![Logo](logo.png)       |
+| **Customize Thematic Category**       | Enables users to define custom tags for each question, supplementing predefined generic tags.                        | ![Logo](logo.png)       |
+| **Capture the Current View**          | Visualizes the evaluation of the relationship between RESs and SDGs in a new diagrammatic sheet; allows renaming.    | ![Logo](logo.png)       |
+
+## Function Breakdown in Master List
+
 ## Installation
 To get started with the Excel SDG Assessment Tool, follow these steps:
 1. Download the tool from the GitHub repository:
