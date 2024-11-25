@@ -52,8 +52,8 @@ These steps will prepare you to start using the tool with all its features activ
 1. Start by navigating to the "Questionnaire" sheet in the Excel workbook.
 2. Enter your project data in the designated fields and select applicable SDGs.
 3. Use the macro-enabled buttons to process data and generate the report:
- - Click the "Target" button to generate the "MasterList" of the questionnaire.
- - View results in the "MasterList" sheet, by clicking "Analyse SDG" and/or "Analyse Tags" to evaluate the project's SDG alignment.
+ - Click the "Target" button to generate the "Master List" of the questionnaire.
+ - View results in the "Master List" sheet, by clicking "Analyse SDG" and/or "Analyse Tags" to evaluate the project's sustainbility.
 4. Save or print the output directly from Excel for presentation or further analysis.
 
 ## License
