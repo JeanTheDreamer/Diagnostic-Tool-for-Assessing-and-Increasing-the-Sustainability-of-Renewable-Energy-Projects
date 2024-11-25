@@ -39,13 +39,13 @@ The Excel SDG Assessment Tool simplifies the complex process of evaluating proje
 To begin using the Excel SDG Assessment Tool, follow these steps:
 1. Download the Tool:
 - Navigate to the GitHub repository.
-- Download the Excel DTAI-SDG_Release Candidate.xlsm file to your computer.
+- Download the **DTAI-SDG_Release Candidate.xlsm** file to your computer.
 2. Download the Sankey Diagram:
 - Ensure that the Sankey Diagram file is downloaded into the **same folder** as the Excel tool for proper integration.
 3. Open the Excel File:
 - Locate and open the DTAI-SDG_Release Candidate.xlsm file in Microsoft Excel.
 4. Enable Macros:
--When you open the file, you might see a security warning asking if you want to enable macros. Click "**Enable Content**" to ensure full functionality of the tool.
+-When you open the file, you might see a security warning asking if you want to enable macros. Click "**Enable Content**" to ensure the full functionality of the tool.
 These steps will prepare you to start using the tool with all its features activated and ready for analysis.
 
 ## Usage 
