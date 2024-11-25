@@ -24,12 +24,13 @@ The Excel SDG Assessment Tool simplifies the complex process of evaluating proje
 |:---------------------------------------------|:---------------------------------------------------------------------------------------------------------------------|:-----------------------:|
 | **Select Renewable Energy Type**      | Displays a dedicated Excel sheet for the chosen energy type and resets the questionnaire.                             | ![Logo](images/Logo_1.png)       |
 | **Select Questionnaires**             | Shows the question list and resets previous responses as needed.                                                     | ![Logo](images/Logo_2.png)      |
-| **Submit the User's Answer**          | Collects and stores the user's responses in the MasterList. Providing an option to rename the MasterList.           | ![Logo](images/Logo_3.png)      |
+| **Submit the User's Answer**          | Collects and stores the user's responses in the Master List. Providing an option to rename the Master List.           | ![Logo](images/Logo_3.png)      |
 | **Generate the Overview Result**      | Aggregates responses into the Stand-alone Complex (SAC) sheet, highlighting the project's impact on SDGs.           | ![Logo](images/Logo_4.png)   |
 | **Customize Thematic Category**       | Enables users to define custom tags for each question, supplementing predefined generic tags.                        | ![Logo](images/Logo_5.png)     |
 | **Capture the Current View**          | Visualizes the evaluation of the relationship between RESs and SDGs in a new diagrammatic sheet; allows renaming.    | ![Logo](images/Logo_6.png)      |
 
 ## Function Breakdown in Master List
+
 
 ## Installation
 To get started with the Excel SDG Assessment Tool, follow these steps:
