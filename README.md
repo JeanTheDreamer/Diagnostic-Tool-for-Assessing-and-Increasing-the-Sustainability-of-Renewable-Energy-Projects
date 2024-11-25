@@ -35,11 +35,18 @@ The Excel SDG Assessment Tool simplifies the complex process of evaluating proje
 | **Analyze SDG**    | Displays the analysis results as a traffic light indicator on the right-hand side of the Sankey Diagram, representing the overall performance of certain projects on specific SDGs. | ![Logo](images/Logo_7.png)   |
 | **Analyze Tags**   | Displays the analysis results as a traffic light indicator on the left-hand side of the Sankey Diagram, representing the overall performance of project-level decisions. | ![Logo](images/Logo_8.png)
 
-## Installation
-To get started with the Excel SDG Assessment Tool, follow these steps:
-1. Download the tool from the GitHub repository:
-2. Open the downloaded Excel SDG Assessment Tool.xlsx in Microsoft Excel.
-3. Ensure macros are enabled to utilize the tool's capabilities fully.
+## Getting Started with the Excel SDG Assessment Tool
+To begin using the Excel SDG Assessment Tool, follow these steps:
+1. Download the Tool:
+-Navigate to the GitHub repository.
+- Download the Excel DTAI-SDG_Release Candidate.xlsm file to your computer.
+2. Download the Sankey Diagram:
+- Ensure that the Sankey Diagram file is downloaded into the ##same folder## as the Excel tool for proper integration.
+3. Open the Excel File:
+- Locate and open the DTAI-SDG_Release Candidate.xlsm file in Microsoft Excel.
+4. Enable Macros:
+-When you open the file, you might see a security warning asking if you want to enable macros. Click "##Enable Content##" to ensure full functionality of the tool.
+These steps will prepare you to start using the tool with all its features activated and ready for analysis.
 
 ## Usage 
 1. Start by navigating to the "Questionnaire" sheet in the Excel workbook.
