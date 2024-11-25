@@ -11,7 +11,7 @@ A user-friendly Excel-based tool designed to assess and visualize alignment with
 7. [Contact](#contact)
 
 ## Introduction
-The Excel SDG Assessment Tool simplifies the complex process of evaluating projects against the United Nations Sustainable Development Goals. Developed to assist in the structured assessment and visualization of alignment with SDGs, this tool helps in the decision-making process by providing clear, colour-coded insights into how well projects align with each SDG.
+The DTAI-SDG Tool simplifies the complex process of evaluating projects against the United Nations Sustainable Development Goals (SDGs). Developed to assist in the structured assessment and visualization of alignment with SDGs, this tool aids in the decision-making process by providing clear, traffic-light insights into how well projects align with each SDG and how decision-makers can make relevant decisions to better achieve the sustainability of renewable projects.
 
 ## Features
 - **Color-coded Visualization**: Utilizes a unique color-coding system to highlight SDG alignment directly within Excel.
