@@ -30,6 +30,10 @@ The Excel SDG Assessment Tool simplifies the complex process of evaluating proje
 | **Capture the Current View**          | Visualizes the evaluation of the relationship between RESs and SDGs in a new diagrammatic sheet; allows renaming.    | ![Logo](images/Logo_6.png)      |
 
 ## Function Breakdown in Master List
+| Function           | Description                                                                                                                  | Interface             |
+|:-------------------|:-----------------------------------------------------------------------------------------------------------------------------|:---------------------:|
+| **Analyze SDG**    | Displays the analysis results as a traffic light indicator on the right-hand side of the Sankey Diagram, representing the overall performance of certain projects on specific SDGs. | [Logo](images/Logo_7.png)   |
+| **Analyze Tags**   | Displays the analysis results as a traffic light indicator on the left-hand side of the Sankey Diagram, representing the overall performance of project-level decisions. | [Logo](images/Logo_8.png)
 
 
 ## Installation
