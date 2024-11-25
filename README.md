@@ -59,13 +59,21 @@ These steps will prepare you to start using the tool with all its features activ
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Contributing
-We welcome contributions from the community! If you'd like to contribute to the Excel SDG Assessment Tool, please follow these guidelines:
+**Contribution Guidelines**
 
-1. Fork the repository on GitHub.
-2. Create a new branch for your modifications (git checkout -b feature-branch).
-3. Make changes and test your code thoroughly.
-4. Submit a pull request with a detailed description of your changes.
+1. **Fork the Repository**
+   - Navigate to the GitHub repository and click on the 'Fork' button.
+2. **Create a New Branch**
+   - In your local clone of the forked repository, create a new branch by running:
+     ```
+     git checkout -b feature-branch
+     ```
+3. **Make Changes and Test Your Code**
+   - Implement your modifications and ensure to test your code thoroughly.
+4. **Submit a Pull Request**
+   - Once your changes are ready, push your changes back to your GitHub repository and submit a pull request to the original repository. Include a detailed description of your changes.
+5. **Cite Our Framework**
+   - If you use our framework to generate a paper, please ensure to cite us! Find the paper links in the **Reading List**.
 
 ## Contact
 For any questions, suggestions, or issues, please contact us through the GitHub issue tracker associated with the repository.
