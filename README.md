@@ -57,9 +57,21 @@ These steps will prepare you to start using the tool with all its features activ
 4. Save or print the output directly from Excel for presentation or further analysis.
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/).
 
-**Contribution Guidelines**
+![CC BY-NC 4.0](https://i.creativecommons.org/l/by-nc/4.0/88x31.png)
+
+Under this license, you are free to:
+- **Share** — copy and redistribute the material in any medium or format
+- **Adapt** — remix, transform, and build upon the material
+
+The licensor cannot revoke these freedoms as long as you follow the license terms. However, under the following terms:
+- **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+- **NonCommercial** — You may not use the material for commercial purposes.
+
+For more details and the full license text, please see the link above.
+
+## Contribution Guidelines
 
 1. **Fork the Repository**
    - Navigate to the GitHub repository and click on the 'Fork' button.
