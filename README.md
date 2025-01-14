@@ -91,8 +91,9 @@ For more details and the full license text, please see the link above.
 For any questions, suggestions, or issues, please contact us through the GitHub issue tracker associated with the repository.
 
 ## Reading List
-- Is renewable energy sustainable? Potential relationships between renewable energy production and the Sustainable Development Goals: https://www.nature.com/articles/s44168-024-00120-6
-- **Users of this tool should refer to the following paper, in which the tool is introduced**:
+**Users of this tool should refer to the following paper, in which the tool is introduced**:
 
-Tian J., Culley S.A., Maier H.R., Zecchin A.C. and Hopeward J. (2024) Diagnostic Approach and Tool for Assessing and Increasing the Sustainability of Renewable Energy Projects. Sustainability, 16(24), 10871. DOI: 10.3390/su162410871"
+- Tian J., Culley S.A., Maier H.R., Zecchin A.C. and Hopeward J. (2024) Diagnostic Approach and Tool for Assessing and Increasing the Sustainability of Renewable Energy Projects. Sustainability, 16(24), 10871. DOI: 10.3390/su162410871
+
+- Is renewable energy sustainable? Potential relationships between renewable energy production and the Sustainable Development Goals: https://www.nature.com/articles/s44168-024-00120-6
 
